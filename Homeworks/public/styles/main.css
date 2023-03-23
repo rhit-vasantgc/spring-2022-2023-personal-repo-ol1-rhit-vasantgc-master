@@ -1,0 +1,41 @@
+body {
+    background: #DDDDDD;
+}
+#favoriteText{
+    font: 2.5em Consolas, 'Arial Narrow', Arial, sans-serif;
+    text-align: left;
+    margin-top: 50px;
+}
+#numberText{
+    font: 2.5em Consolas, 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    margin-top: 20px;
+}
+.navbar {
+    background-color: #800000;
+    color: white;
+}
+
+.page-container {
+    margin-top: 75px;
+}
+
+.button{
+    background-color: #800000;
+    color: white;
+}
+
+
+/* #button-group {
+    text-align: center;
+    border: gray solid 5px;
+    padding: 5vw;
+    
+}
+
+#button-group > button {
+    font-size: 1.5em;
+    padding: 10px;
+    margin: 10px;
+    background-color: #800000;
+} */
