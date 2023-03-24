@@ -10,7 +10,7 @@ rhit.PageController = class {
 	}
 
 	methodName() {
-
+		//default method
 	}
 }
 
